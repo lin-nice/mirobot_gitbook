@@ -1,4 +1,4 @@
-# <center>滑轨、传送带使用教程</center>
+# <center>5. 滑轨、传送带使用教程</center>
 ##&diams; 滑轨连接与使用
 第1步：关闭机械臂电源，将Mirobot机械臂用螺钉固定到滑轨上。
 <center><img src="http://lin88zhang.gitee.io/image/4/4-1.png" width="600"  > </center>

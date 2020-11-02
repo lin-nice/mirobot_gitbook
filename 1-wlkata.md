@@ -1,4 +1,4 @@
-# <center>Mirobot快速上手指南-Windows</center>
+# <center>2. Mirobot快速上手指南-Windows</center>
 ##第1步：点击WLKATA Studio目录下的“WLKATA Studio.exe”打开控制软件
 <center><img src="http://lin88zhang.gitee.io/image/1/1-1.png" width="600"  > </center>
 

@@ -1,4 +1,5 @@
-# <center>Mirobot校准教程</center>
+# <center>13. Mirobot校准教程</center>
+<font color="red">**注：Mirobot六轴机械臂在出厂前已经完成校准！用户收到货后不需要额外校准设置，除非机械臂出现较大误差时才去校准。**</font><br/>
 手动校准详细步骤：
 <center><img src="http://lin88zhang.gitee.io/image/12/12-1.png" width="600"  > </center>
 第1步：打开机械臂电源，打开Mirobot Studio软件在“命令控制”界面输入“M50”点击“发送”解锁各轴点击。

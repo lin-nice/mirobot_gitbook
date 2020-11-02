@@ -1,4 +1,4 @@
-# <center>WLKATA气动套件安装与使用指南</center>
+# <center>6. WLKATA气动套件安装与使用指南</center>
 ##&diams; 单指/双指吸盘安装
 第1步：关闭机械臂的电源。用螺丝刀将吸盘固定在末端执行电机轴上
 <center><img src="http://lin88zhang.gitee.io/image/5/5-1.png" width="600"  > </center>

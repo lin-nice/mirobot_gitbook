@@ -1,4 +1,4 @@
-# <center>Mirobot蓝牙示教器快速上手教程</center>
+# <center>10. Mirobot蓝牙示教器快速上手教程</center>
 ##&diams; 蓝牙示教器功能详解
 蓝牙遥控器是专为Mirobot机械臂设计的一款离线控制器，包含角度控制、坐标控制、点位示教、夹具控制等功能。
 <center><img src="http://lin88zhang.gitee.io/image/9/9-1.png" width="600"  > </center>

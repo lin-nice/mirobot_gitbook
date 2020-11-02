@@ -1,4 +1,4 @@
-# <center>WLKATA Studio点位示教-复现教程</center>
+# <center>7. WLKATA Studio点位示教-复现教程</center>
 ##&diams; 点位示教-复现步骤
 第1步：点击“示教控制”进入界面
 <center><img src="http://lin88zhang.gitee.io/image/6/6-1.png" width="600"  > </center>

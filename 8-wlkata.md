@@ -1,4 +1,4 @@
-# <center>WLKATA Studio-Python编程指南</center>
+# <center>9. WLKATA Studio-Python编程指南</center>
 ##&diams; Python编程界面讲解
 打开Mirobot Studio进入Python编程界面，下图中上方黄色矩形框内为代码文件操作区，左侧红色矩形框内为Python API选项区，右侧绿色框内为Python代码编辑区。
 <font color="red">注：代码编辑区中默认的8行代码不可随意更改！</font>

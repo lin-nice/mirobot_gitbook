@@ -1,4 +1,4 @@
-# <center>Mirobot固件升级教程</center>
+# <center>12. Mirobot固件升级教程</center>
 目前仅WLKATA Studio V1.014及以上版本支持控制软件固件升级。
 固件升级的流程:
 <center><img src="http://lin88zhang.gitee.io/image/11/11-1.png" width="600"  > </center>

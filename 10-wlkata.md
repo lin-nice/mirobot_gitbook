@@ -1,4 +1,4 @@
-# <center>Mirobot激光雕刻教程</center>
+# <center>11. Mirobot激光雕刻教程</center>
 ##&diams; 激光雕刻头安装与连接
 第1步：将激光头固定在笔架上
 <center><img src="http://lin88zhang.gitee.io/image/10/10-1.png" width="350"  > </center>

@@ -1,4 +1,4 @@
-# <center>WLKATA Studio-Blockly编程指南</center>
+# <center>8. WLKATA Studio-Blockly编程指南</center>
 ##&diams; Blockly图形化编程界面讲解
 打开Mirobot Studio进入Blockly图形化编程界面，下图中中间黄色矩形框内为图形化编程工作区，右侧绿色框内为Python代码显示区。可拖动分界轴调整工作区大小或隐藏代码生成区
 <center><img src="http://lin88zhang.gitee.io/image/7/7-1.png" width="600"  > </center>

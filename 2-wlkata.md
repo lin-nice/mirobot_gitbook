@@ -1,4 +1,4 @@
-# <center>初识WLKATA Studio控制软件</center>
+# <center>3. 初识WLKATA Studio控制软件</center>
 WLKATA  Studio是一款专门控制Mirobot桌面六轴教育机械臂的软件，软件包含机械臂指令控制、角度/坐标控制模式、点位示教、图形化编程、Python编程、写字画画、固件升级等多种功能。
 ##&diams; 中英文切换功能：
 打开软件后点击设置语言选择英文或中文后确定并重启即可（也可通过点击界面右上角绿色框内的“CN”设置）。

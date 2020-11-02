@@ -1,4 +1,4 @@
-# <center>WLKATA Studio机械臂控制软件安装指南</center>
+# <center>1. WLKATA Studio机械臂控制软件安装指南</center>
 WLKATA  Studio是一款专门控制软件包含机械臂指令控制、角度/坐标控制、点位示教、图形化编程、Python编程、写字画画、固件升级等功能。（安装指南以Windows 10为例）<br/>
 Mirobot Studio控制软件支持如下操作系统：<br/>
 &rArr; Windows 7，Windows 8，Windows 10<br/>

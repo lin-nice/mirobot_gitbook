@@ -1,4 +1,4 @@
-# <center>Mirobot写字画画教程</center>
+# <center>4. Mirobot写字画画教程</center>
 写字的整体流程如下:
 写字笔安装→调整设置画笔高度→开始写作或画画
 ##&diams; 写字笔安装
